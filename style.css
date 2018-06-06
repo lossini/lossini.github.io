@@ -12,7 +12,7 @@ body{
 
 hr {
   max-width: 65px;
-  border-width: 3px;
+  border-width: 1px;
   border-color: #F05F44; 
 }
 
@@ -44,7 +44,7 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 4rem 4rem; 
+  padding: 1rem 2rem; 
 }
 
 .btn-primary {
